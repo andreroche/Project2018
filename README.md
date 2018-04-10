@@ -1,3 +1,3 @@
 # Project2018
 
-Fisher's IRIS DATA SET:
+Fisher's Iris Data Set:
