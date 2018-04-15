@@ -7,3 +7,4 @@ Research, investigation and summary of findings are all presented within this Re
 Supporting python code and relevant instructions for using this file(s) is uploaded to this respository in the format of .py files.  
 
 # Research and Investigation into Fisher's Iris Data Set:
+Introduced by Ronald Fisher in a 1936 paper titled 'The use of multiple measurements in taxonomic problems', it is an example of linear discriminant analysis. The dataset itself is a mutivariate data set containing data of three Iris flower species.   
